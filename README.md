@@ -2,7 +2,7 @@
 
 ![profile count](https://komarev.com/ghpvc/?username=y4f3q&color=red)&nbsp;
 
-[![GitHub LewyJs](https://img.shields.io/github/followers/y4f3q?label=follow&style=social)](https://github.com/ariscik)&nbsp;
+[![GitHub LewyJs](https://img.shields.io/github/followers/y4f3q?label=follow&style=social)](https://github.com/y4f3q)&nbsp;
 
 <a href="https://instagram.com/y4f3q"><img src="https://img.shields.io/badge/@y4f3q-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
