@@ -1,4 +1,4 @@
-# ✨ Hi there , I'm Lewy ✨
+✨ Hi there , I'm Lewy
 
 ![profile count](https://komarev.com/ghpvc/?username=y4f3q&color=red)&nbsp;
 
